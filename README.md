@@ -65,7 +65,8 @@ Check out the live version of the site deployed on Vercel:
 
 <img width="1595" height="949" alt="image" src="https://github.com/user-attachments/assets/6897b953-e32d-4c3c-a577-5e50dc054fd2" />
 
-<img width="1462" height="517" alt="image" src="https://github.com/user-attachments/assets/bd246efc-deaf-46ba-b8bf-389078583dcc" />
+<img width="1595" height="552" alt="image" src="https://github.com/user-attachments/assets/efb04457-ea64-4573-a49f-75fec906dd37" />
+
 
 
 
