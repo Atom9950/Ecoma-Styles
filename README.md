@@ -2,7 +2,9 @@
   <img width="262" height="86" alt="image" src="https://github.com/user-attachments/assets/a6654639-7c01-43b9-bc77-0a2315c8d904" />
 </p>
 
-# Ecoma
+# Ecoma 
+
+## Live At: [**https://ecoma-styles.vercel.app/**](https://ecoma-styles.vercel.app/)
 
 A fresh and visually engaging e-commerce landing page featuring smooth animations and a modern, responsive design.
 
