@@ -63,6 +63,9 @@ Check out the live version of the site deployed on Vercel:
 - Clean, minimalistic design focusing on products
 - Fast performance and SEO-friendly
 
+<img width="1595" height="949" alt="image" src="https://github.com/user-attachments/assets/6897b953-e32d-4c3c-a577-5e50dc054fd2" />
+
+
 ---
 
 ## Getting Started
