@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Atom9950/Ecoma/assets/YOUR-USERNAME/YOUR-BANNER-ID" alt="Ecoma Banner" width="100%">
+  <img width="262" height="86" alt="image" src="https://github.com/user-attachments/assets/a6654639-7c01-43b9-bc77-0a2315c8d904" />
 </p>
 
 # Ecoma
@@ -7,7 +7,8 @@
 A fresh and visually engaging e-commerce landing page featuring smooth animations and a modern, responsive design.
 
 
-<img width="1895" height="1086" alt="Screenshot 2025-08-09 024952" src="https://github.com/user-attachments/assets/ed275021-497f-45fe-99b2-8a4ca1ac5d0a" />
+<img width="1900" height="995" alt="image" src="https://github.com/user-attachments/assets/bd228851-30bd-45be-9fe4-612d159dea19" />
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -42,7 +43,7 @@ Check out the live version of the site deployed on Vercel:
 
 ## Built With
 
-- **[Next.js](https://nextjs.org/)** – React framework for building UI and server-side rendering
+- **[Framer](https://www.framer.com/)** – React framework for building UI and server-side rendering
 - **React** – Component-based UI library
 - **CSS Modules / Styled Components** – For scoped, maintainable styles
 - **Vercel** – Deployment platform for seamless hosting
