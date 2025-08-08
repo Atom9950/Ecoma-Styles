@@ -4,9 +4,9 @@
 
 # Ecoma 
 
-## Live At: [**https://ecoma-styles.vercel.app/**](https://ecoma-styles.vercel.app/)
-
 A fresh and visually engaging e-commerce landing page featuring smooth animations and a modern, responsive design.
+
+## Live At: [**https://ecoma-styles.vercel.app/**](https://ecoma-styles.vercel.app/)
 
 
 <img width="1900" height="995" alt="image" src="https://github.com/user-attachments/assets/bd228851-30bd-45be-9fe4-612d159dea19" />
