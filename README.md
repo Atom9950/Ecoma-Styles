@@ -34,6 +34,9 @@ A fresh and visually engaging e-commerce landing page featuring smooth animation
 Ecoma is a beautifully styled e-commerce homepage designed to captivate visitors with a clean layout, engaging animations, and intuitive interaction.  
 Built using modern web technologies, this project serves as a template for e-commerce and brand landing pages.
 
+<img width="1665" height="1087" alt="image" src="https://github.com/user-attachments/assets/121a9ce8-d90f-4936-8629-d3db011844d8" />
+
+
 ---
 
 ## Live Demo
