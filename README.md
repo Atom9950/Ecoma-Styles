@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="262" height="86" alt="image" src="https://github.com/user-attachments/assets/a6654639-7c01-43b9-bc77-0a2315c8d904" />
+  <img width="197" height="94" alt="image" src="https://github.com/user-attachments/assets/330dbf01-5264-40b4-95cb-f8f2fb4ea679" />
+
 </p>
 
 # Ecoma 
